@@ -20,7 +20,8 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreekuttasree)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreekuttasree/AutoFilterBotV3)
+
 
 #### Hard Way
 ```bash
